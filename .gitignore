@@ -66,3 +66,5 @@ typings/
 # temporary files
 tmp
 .history
+
+*.yaml
